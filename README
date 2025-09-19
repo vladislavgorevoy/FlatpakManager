@@ -1,5 +1,5 @@
 # Flatpak Backup Manager
-**Автор:** Владислав Горевой (gorevoy.vladislav@gmail.com)
+**Автор:** Владислав Горевой (vladislavgorevoy@gmail.com)
 **Лицензия:** GNU General Public License v3.0
 
 ---
@@ -27,7 +27,7 @@
 ## 📦 Установка
 1. Скачайте скрипт:
    ```bash
-   curl -O https://github.com/gorevoy-vladislav/FlatpakManager/flatpak-manager.sh
+   curl -O https://github.com/vladislavgorevoy/FlatpakManager/flatpak-manager.sh
    ```
 2. Сделайте его исполняемым:
    ```bash
@@ -91,7 +91,7 @@
 ---
 
 ## 📬 Обратная связь
-По вопросам и предложениям пишите на <gorevoy.vladislav@gmail.com>.
+По вопросам и предложениям пишите на <vladislavgorevoy@gmail.com>.
 
 ---
 
